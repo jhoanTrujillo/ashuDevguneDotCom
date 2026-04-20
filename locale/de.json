@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "home":    { "title": "Ashu Devgune — Schule für klassischen indischen Tanz" },
+    "about":   { "title": "Über — Ashu Devgune" },
+    "classes": { "title": "Kurse & Stundenplan — Ashu Devgune" },
+    "gallery": { "title": "Galerie — Ashu Devgune" },
+    "contact": { "title": "Besuch & Anmeldung — Ashu Devgune" }
+  },
+
+  "brand": {
+    "name": "Ashu Devgune",
+    "tag":  "Schule für klassischen Tanz"
+  },
+
+  "nav": {
+    "home":    "Start",
+    "about":   "Über",
+    "classes": "Kurse",
+    "gallery": "Galerie",
+    "contact": "Besuch"
+  },
+
+  "lang": {
+    "label": "Sprache",
+    "en":    "EN",
+    "de":    "DE"
+  },
+
+  "home": {
+    "eyebrow":     "Belgien — Gegr. MMXIX",
+    "title_lead":  "Das Handwerk des",
+    "title_mid":   "klassischen indischen",
+    "title_accent":"Tanzes,",
+    "title_tail":  "mit Geduld gelehrt.",
+    "lede":        "Ein kleines Studio für Kathak, Bharatanatyam und verwandte Formen — in der Tradition verwurzelt, offen für alle, die beginnen möchten.",
+
+    "meta_discipline_label": "Disziplinen",
+    "meta_discipline_value": "Volkstanz · Bharatanatyam",
+    "meta_locations_label":  "Standorte",
+    "meta_locations_value":  "Nekkersputstraat 42, 9000 Gent, Belgien",
+    "meta_since_label":      "Unterrichtet seit",
+    "meta_since_value":      "2019",
+
+    "cta_primary":   "Probestunde buchen",
+    "cta_secondary": "Stundenplan lesen",
+
+    "hero_caption": "Arangetram-Probe, Winter 2019",
+
+    "intro_eyebrow": "Willkommen",
+    "intro_heading_a": "Eine Praxis",
+    "intro_heading_b": "des Zuhörens,",
+    "intro_heading_c": "der Füße & der Zeit.",
+    "intro_body_1": "Der klassische indische Tanz ist weniger eine Aufführung als vielmehr ein Zuhören — auf einen rhythmischen Zyklus, auf eine Lehrerin, auf das Gewicht des eigenen Körpers. Die Schule vermittelt die Grundlagen sorgfältig und ohne Eile, vom ersten Fußwerk (Tatkar) bis hin zur Erzählkunst (Abhinaya).",
+    "intro_body_2": "Die Kurse stehen Anfängern ab sieben Jahren offen; für Erwachsene gibt es eigene Gruppen. Vorkenntnisse sind nicht nötig — nur die Bereitschaft, jede Woche wiederzukommen.",
+    "intro_pull": "Tanzen heißt, im Takt mit etwas zu bleiben, das älter ist als man selbst.",
+    "intro_pull_cite": "Guru Ashu Devgune",
+
+    "disciplines_eyebrow": "Was unterrichtet wird",
+    "disciplines_heading": "Drei Disziplinen, eine Grammatik.",
+
+    "d1_num":  "I.",
+    "d1_name_a": "Indische Volkstänze",
+    "d1_name_b": "लोक नृत्य",
+    "d1_desc": "Regionale Volkstraditionen aus Maharashtra und Rajasthan — Lavani, Koli, Ghoomar und Kalbelia. Erdiger Rhythmus, Gruppenformationen und das charakteristische Fußwerk jeder Region. Bollywood wird als eigener Kurs angeboten.",
+
+    "d2_num":  "II.",
+    "d2_name_a": "Bharatanatyam",
+    "d2_name_b": "भरतनाट्यम्",
+    "d2_desc": "Die kodifizierte südindische Form, aufgebaut auf Adavus und der Geometrie des Körpers. Zuerst die Struktur, dann der Ausdruck — schließlich beides zugleich.",
+
+    "d3_num":  "III.",
+    "d3_name_a": "Grundlagen",
+    "d3_name_b": "für Kinder",
+    "d3_desc": "Eine sanftere Einführung für 7- bis 12-Jährige — Haltung, Rhythmus, einfache Geschichten. Kein Prüfungsdruck; das Ziel ist eine lebenslange Beziehung zur Kunst.",
+
+    "disciplines_cta": "Vollständigen Stundenplan ansehen",
+
+    "visit_eyebrow": "Anmeldung",
+    "visit_heading": "Neue Schüler werden zu jedem Trimester aufgenommen.",
+    "visit_body":    "Kommen Sie zu einer Probestunde, bevor Sie sich festlegen. Das Studio ist bewusst klein — bitte schreiben Sie uns im Voraus.",
+    "visit_cta":     "Ans Studio schreiben"
+  },
+
+  "about": {
+    "eyebrow": "Über die Lehrerin",
+    "title_a": "Eine Lehrerin,",
+    "title_b": "eine Schülerin,",
+    "title_c": "immer beides.",
+    "lede": "Ashu Devgune lernte über fünfzehn Jahre lang in Indien, bevor sie sich in Belgien niederließ. Sie unterrichtet, wie sie selbst unterrichtet wurde — langsam, mit Korrekturen und mit Zuneigung zur Form.",
+
+    "body_1": "Ashu begann mit sechs Jahren Kathak bei [LEHRERNAME] in [STADT] und setzte ihre Ausbildung später unter [GURU-NAME] der [GHARANA]-Schule fort. Sie hält einen Visharad in Kathak sowie ein postgraduales Diplom in Bharatanatyam von [INSTITUTION].",
+    "body_2": "Sie zog [JAHR] nach Belgien und unterrichtet seit [JAHR] selbständig — Kinder, Jugendliche und Erwachsene. Jeden Sommer kehrt sie nach Indien zurück, um bei ihren eigenen Lehrerinnen weiter zu lernen.",
+    "body_3": "Ihr Zugang ist traditionell, aber nicht streng: technische Strenge im Fußwerk und in der Körperlinie; Geduld im Ausdruck; und die Überzeugung, dass kein Schüler zu spät, zu steif oder zu alt ist, um zu beginnen.",
+
+    "pull":  "Die Form gehört mir nicht, um sie zu verändern. Sie gehört mir, um sie so sorgfältig wie möglich weiterzugeben.",
+    "pull_cite": "Über das Unterrichten",
+
+    "lineage_eyebrow": "Tradition",
+    "lineage_heading": "Gharana & Überlieferung",
+    "lineage_body": "Die Kathak-Linie der Schule geht auf die [XYZ]-Gharana zurück; ihre Bharatanatyam-Praxis folgt der [XYZ]-Bani. Neuen Schülerinnen und Schülern wird zu jeder Tradition eine kurze Notiz überreicht.",
+
+    "credentials_eyebrow": "Ausbildung",
+    "credentials_heading": "Ausgewählte Qualifikationen",
+    "credentials_1": "Visharad in Kathak — [Institution], [Jahr]",
+    "credentials_2": "Postgraduales Diplom in Bharatanatyam — [Institution], [Jahr]",
+    "credentials_3": "Auftritte im [Veranstaltungsort], [Veranstaltungsort], [Veranstaltungsort] — [Jahre]",
+    "credentials_4": "Gastworkshops an [Schule], [Festival] — [Jahre]"
+  },
+
+  "classes": {
+    "eyebrow": "Kurse & Stundenplan",
+    "title_a": "Wöchentliche Kurse",
+    "title_b": "für Kinder & Erwachsene,",
+    "title_c": "in zwei Städten.",
+    "lede": "Das Schuljahr läuft von September bis Juni, angelehnt an den belgischen Schulkalender. Der vollständige Stundenplan steht unten; bitte schreiben Sie vor Ihrer ersten Stunde, um einen Platz zu bestätigen.",
+
+    "intro": "Jede Schülerin beginnt mit einem fünfzehnminütigen Gespräch — darüber, warum Sie hier sind, was Sie bereits studiert haben und was Sie sich erhoffen. Gemeinsam entscheiden wir über die passende Gruppe.",
+
+    "d1_num":   "I.",
+    "d1_name":  "Indische Volkstänze",
+    "d1_trans": "Maharashtra · Rajasthan · alle Niveaus",
+    "d1_desc":  "Eine lebendige Übersicht zweier regionaler Traditionen. Formen aus Maharashtra — Lavani, Koli, Dindi — sowie aus Rajasthan — Ghoomar und Kalbelia. Anfänger beginnen mit Haltung, Rhythmus und einfachen Schritten; Mittel- und Fortgeschrittenen-Gruppen arbeiten an ganzen Sequenzen mit Kostüm- und Requisitenelementen. Bollywood wird als eigener Kurs angeboten und ist nicht Teil dieses Lehrplans.",
+    "d1_levels": "Anfänger · Mittelstufe · Fortgeschritten",
+    "d1_dur":    "75 Minuten",
+
+    "d2_num":   "II.",
+    "d2_name":  "Bharatanatyam",
+    "d2_trans": "भरतनाट्यम् · Anfänger bis Mittelstufe",
+    "d2_desc":  "Adavus, die zehn Grundhaltungen und der langsame Aufbau von Jathis. Die Theorie des Rhythmus (Tala) wird von Anfang an parallel zur Bewegung gelehrt.",
+    "d2_levels": "Anfänger · Mittelstufe",
+    "d2_dur":    "75 Minuten",
+
+    "d3_num":   "III.",
+    "d3_name":  "Kinder (7–12)",
+    "d3_trans": "Grundlagengruppe",
+    "d3_desc":  "Eine spielerische, unaufgeregte Einführung. Haltung, Rhythmus, kurze Geschichten aus den Epen. Kleine Gruppe, sodass jedes Kind gesehen und mit Geduld korrigiert werden kann.",
+    "d3_levels": "Gemischte Niveaus",
+    "d3_dur":    "60 Minuten",
+
+    "sch_heading": "Wochenplan",
+    "sch_note":    "Termine unter Vorbehalt. Belgische Schulferien werden berücksichtigt.",
+
+    "sch_col_day":      "Tag",
+    "sch_col_time":     "Zeit",
+    "sch_col_class":    "Kurs",
+    "sch_col_level":    "Niveau",
+    "sch_col_location": "Standort",
+
+    "sch_1_day": "Dienstag",   "sch_1_time": "17:30 – 18:30", "sch_1_class": "Kinder — Grundlagen",        "sch_1_level": "7–12",             "sch_1_loc": "Nekkersputstraat 42, 9000 Gent, Belgien",
+    "sch_2_day": "Dienstag",   "sch_2_time": "19:00 – 20:15", "sch_2_class": "Volkstanz — Anfänger",       "sch_2_level": "Erwachsene",       "sch_2_loc": "Nekkersputstraat 42, 9000 Gent, Belgien",
+    "sch_3_day": "Mittwoch",   "sch_3_time": "18:30 – 19:45", "sch_3_class": "Bharatanatyam — Anfänger",  "sch_3_level": "Erwachsene",       "sch_3_loc": "Nekkersputstraat 42, 9000 Gent, Belgien",
+    "sch_4_day": "Donnerstag", "sch_4_time": "19:00 – 20:15", "sch_4_class": "Volkstanz — Mittelstufe",    "sch_4_level": "Erwachsene",       "sch_4_loc": "Nekkersputstraat 42, 9000 Gent, Belgien",
+    "sch_5_day": "Samstag",    "sch_5_time": "10:30 – 11:30", "sch_5_class": "Kinder — Grundlagen",        "sch_5_level": "7–12",             "sch_5_loc": "Nekkersputstraat 42, 9000 Gent, Belgien",
+    "sch_6_day": "Samstag",    "sch_6_time": "12:00 – 13:15", "sch_6_class": "Volkstanz — Fortgeschritten", "sch_6_level": "Nach Vorsprechen", "sch_6_loc": "Nekkersputstraat 42, 9000 Gent, Belgien",
+
+    "pricing_heading": "Gebühren",
+    "pricing_body":    "Monatsbeitrag, trimesterweise abgerechnet. Eine einmalige Probestunde wird für €[XX] angeboten und bei Anmeldung angerechnet. Ermäßigung für Geschwister. Vollständige Preisliste auf Anfrage.",
+    "pricing_cta":     "Zur Anmeldung fragen"
+  },
+
+  "gallery": {
+    "eyebrow": "Galerie",
+    "title_a": "Ein Jahrzehnt",
+    "title_b": "an Proben",
+    "title_c": "und Aufführungen.",
+    "lede": "Bilder aus Unterricht, Studioproben und der Winteraufführung 2019. Ein umfangreicheres Videoarchiv folgt.",
+
+    "cap_1":  "Tatkar-Übung, Studio",
+    "cap_2":  "Eröffnungsanrufung",
+    "cap_3":  "Hastak-Detail",
+    "cap_4":  "Bharatanatyam-Adavu",
+    "cap_5":  "Abhinaya-Probe",
+    "cap_6":  "Gat-Nikas, Winteraufführung",
+    "cap_7":  "Kindergruppe",
+    "cap_8":  "Tihai — letzte Drehung",
+    "cap_9":  "Vor dem Vorhang",
+    "cap_10": "Nach der Aufführung, hinter der Bühne",
+    "cap_11": "Chakkars",
+    "cap_12": "Tabla & Tänzerin",
+    "cap_13": "Haltung — Araimandi",
+    "cap_14": "Oberstufe, Solo",
+    "cap_15": "Gruppenfinale",
+    "cap_16": "Probe unbeobachtet",
+    "cap_17": "Bodenarbeit",
+    "cap_18": "Fußglöckchen (Ghungroos)",
+    "cap_19": "Probe im Halblicht",
+    "cap_20": "Nach der Verbeugung",
+
+    "video_eyebrow": "Video",
+    "video_heading": "Aufführungen & Workshops",
+    "video_body":    "Aufführungsausschnitte folgen hier in Kürze. Abonnieren Sie den YouTube-Kanal, um informiert zu werden."
+  },
+
+  "contact": {
+    "eyebrow": "Besuch & Anmeldung",
+    "title_a": "Vorher schreiben,",
+    "title_b": "dann vorbeikommen.",
+    "lede": "Der schnellste Weg zur Anmeldung ist eine kurze Nachricht — Ihr Name, Altersgruppe, etwaige Vorkenntnisse und welche Stadt näher liegt. Sie erhalten innerhalb weniger Tage Antwort.",
+
+    "info_heading": "Studio",
+
+    "studio_1_label":   "Studioadresse",
+    "studio_1_address": "Nekkersputstraat 42\n9000 Gent, Belgien",
+    "studio_2_label":   "Adresse",
+    "studio_2_address": "Nekkersputstraat 42\n9000 Gent, Belgien",
+
+    "email_label": "E-Mail",
+    "email":       "ashudevgune8@gmail.com",
+    "phone_label": "Telefon",
+    "phone":       "+32 499 33 25 56",
+    "hours_label": "Bürozeiten",
+    "hours":       "Di – Sa, 14:00 – 20:00",
+
+    "socials_label": "Folgen",
+    "social_ig":     "Instagram ↗",
+    "social_yt":     "YouTube ↗",
+
+    "form_heading": "Eine Nachricht ans Studio",
+    "form_note":    "Das Formular ist noch nicht angebunden — bitte schreiben Sie in der Zwischenzeit direkt an die oben stehende E-Mail-Adresse.",
+    "form_name":    "Ihr Name",
+    "form_email":   "E-Mail",
+    "form_interest":"Ich interessiere mich für",
+    "form_interest_default": "Kurs auswählen",
+    "form_interest_kathak":  "Kathak",
+    "form_interest_bharat":  "Bharatanatyam",
+    "form_interest_child":   "Kinderkurs",
+    "form_interest_other":   "Andere Anfrage",
+    "form_message": "Nachricht",
+    "form_submit":  "Senden"
+  },
+
+  "footer": {
+    "tagline":   "Ashu Devgune — Schule für klassischen indischen Tanz · Belgien",
+    "copyright": "© 2026 Ashu Devgune. Alle Rechte vorbehalten.",
+    "link_contact": "Kontakt",
+    "link_classes": "Kurse",
+    "link_about":   "Über",
+    "socials_ig":   "Instagram",
+    "socials_yt":   "YouTube",
+    "socials_email":"E-Mail"
+  },
+
+  "error": {
+    "title_404": "Aus dem Takt.",
+    "body_404":  "Die gesuchte Seite existiert nicht — oder sie wurde verschoben. Kehren Sie unten zur Startseite zurück.",
+    "cta_404":   "Zurück zur Startseite"
+  }
+}

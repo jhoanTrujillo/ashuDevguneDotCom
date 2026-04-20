@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "home":    { "title": "Ashu Devgune — School of Indian Classical Dance" },
+    "about":   { "title": "About — Ashu Devgune" },
+    "classes": { "title": "Classes & Schedule — Ashu Devgune" },
+    "gallery": { "title": "Gallery — Ashu Devgune" },
+    "contact": { "title": "Visit & Enrol — Ashu Devgune" }
+  },
+
+  "brand": {
+    "name": "Ashu Devgune",
+    "tag":  "School of Classical Dance"
+  },
+
+  "nav": {
+    "home":    "Home",
+    "about":   "About",
+    "classes": "Classes",
+    "gallery": "Gallery",
+    "contact": "Visit"
+  },
+
+  "lang": {
+    "label": "Language",
+    "en":    "EN",
+    "de":    "DE"
+  },
+
+  "home": {
+    "eyebrow":     "Belgium — Est. MMXIX",
+    "title_lead":  "The craft of",
+    "title_mid":   "Indian classical",
+    "title_accent":"dance,",
+    "title_tail":  "taught with patience.",
+    "lede":        "A small studio for Bharatanatyam, Folk dance and allied forms — rooted in tradition, open to anyone willing to begin.",
+
+    "meta_discipline_label": "Disciplines",
+    "meta_discipline_value": "Folk dance · Bharatanatyam",
+    "meta_locations_label":  "Locations",
+    "meta_locations_value":  "Nekkersputstraat 42, 9000 Gent, Belgium",
+    "meta_since_label":      "Teaching since",
+    "meta_since_value":      "2004",
+
+    "cta_primary":   "Book a trial class",
+    "cta_secondary": "Read the schedule",
+
+    "hero_caption": "Arangetram rehearsal, winter 2019",
+
+    "intro_eyebrow": "Welcome",
+    "intro_heading_a": "A practice",
+    "intro_heading_b": "of listening,",
+    "intro_heading_c": "footwork & time.",
+    "intro_body_1": "Indian classical dance is less about performance than it is about listening — to a rhythmic cycle, to a teacher, to the weight of your own body. The school teaches the foundations carefully and unhurriedly, from first footwork (tatkar) through storytelling (abhinaya).",
+    "intro_body_2": "Classes are open to beginners from age seven, with separate groups for adults. No prior experience is required — only the willingness to return each week.",
+    "intro_pull": "To dance is to keep time with something older than yourself.",
+    "intro_pull_cite": "Guru Ashu Devgune",
+
+    "disciplines_eyebrow": "What is taught",
+    "disciplines_heading": "Three disciplines, one grammar.",
+
+    "d1_num":  "I.",
+    "d1_name_a": "Indian Folk Dances",
+    "d1_name_b": "लोक नृत्य",
+    "d1_desc": "Regional folk traditions from Maharashtra and Rajasthan — lavani, koli, ghoomar and kalbelia. Earthy rhythm, group formations and the characteristic footwork of each region. Bollywood is offered as a separate course.",
+
+    "d2_num":  "II.",
+    "d2_name_a": "Bharatanatyam",
+    "d2_name_b": "भरतनाट्यम्",
+    "d2_desc": "The codified South Indian form, built on adavus and the geometry of the body. Structure first, expression second — then, eventually, both at once.",
+
+    "d3_num":  "III.",
+    "d3_name_a": "Foundations",
+    "d3_name_b": "for children",
+    "d3_desc": "A gentler introduction for ages 7–12 — posture, rhythm, simple stories. No exam pressure; the aim is a lifelong relationship with the art.",
+
+    "disciplines_cta": "See full schedule",
+
+    "visit_eyebrow": "Enrol",
+    "visit_heading": "New students are welcomed each term.",
+    "visit_body":    "Drop in for a trial class before committing. The studio is small on purpose — we ask that you write ahead.",
+    "visit_cta":     "Write to the studio"
+  },
+
+  "about": {
+    "eyebrow": "About our Guru",
+    "title_a": "Asharani Devgune:",
+    "title_b": "artist, mentor,",
+    "title_c": "and founder.",
+    "lede": "Asharani (Ashu) Devgune is a professional dancer, choreographer and teacher with decades of experience in Indian classical and folk traditions.",
+
+    "body_1": "Originally from Pune, Maharashtra, she is a Bachelor of Performing Arts in Bharatanatyam (University of Pune), with additional training through Prayag Sangeet Samiti and Nrutya Zankar Sangeet Academy.",
+    "body_2": "Her core practice includes Bharatanatyam, Indian folk dance and Bollywood. She has taught and performed across India, Europe and Africa, including founding the dance school Nupur Nrutyala in Tanzania.",
+    "body_3": "With more than 2,000 performances and years of choreography, workshops and productions, Ashu leads the school with warmth, discipline and a commitment to helping every student grow with confidence.",
+
+    "pull":  "The form is not mine to change. It is mine to pass on, as carefully as I can.",
+    "pull_cite": "On teaching",
+
+    "lineage_eyebrow": "Background",
+    "lineage_heading": "Rooted in culture",
+    "lineage_body": "Raised in Pune, a city known for its artistic heritage, Ashu brings a training culture that balances precision, expression and respect for tradition in every class.",
+
+    "credentials_eyebrow": "Highlights",
+    "credentials_heading": "Experience & recognition",
+    "credentials_1": "Bachelor of Performing Arts (Bharatanatyam) — University of Pune, India",
+    "credentials_2": "National Talent Research Scholarship recipient",
+    "credentials_3": "Former dancer and choreographer for Sumit and T-Series in India",
+    "credentials_4": "2,000+ performances, plus workshops and choreography across India, Europe and Africa; featured in the STAR Gent artist list for the past 6 years"
+  },
+
+  "classes": {
+    "eyebrow": "Classes & schedule",
+    "title_a": "Weekly classes",
+    "title_b": "for children & adults,",
+    "title_c": "in two cities.",
+    "lede": "Term runs from September through June, mirroring the Belgian school calendar. A full schedule is below; please write to confirm a place before your first class.",
+
+    "intro": "Every student begins with a fifteen-minute conversation — about why you are here, what you have studied, and what you hope for. From there we agree on the right group.",
+
+    "d1_num":   "I.",
+    "d1_name":  "Indian Folk Dances",
+    "d1_trans": "Maharashtra · Rajasthan · all levels",
+    "d1_desc":  "A living survey of two regional traditions. Maharashtrian forms — lavani, koli, dindi — alongside the Rajasthani ghoomar and kalbelia. Beginners start with stance, rhythm and simple steps; intermediate and advanced groups build toward full sequences with prop and costume conventions. Bollywood is taught as a separate course and is not part of this curriculum.",
+    "d1_levels": "Beginner · Intermediate · Advanced",
+    "d1_dur":    "75 minutes",
+
+    "d2_num":   "II.",
+    "d2_name":  "Bharatanatyam",
+    "d2_trans": "भरतनाट्यम् · beginner to intermediate",
+    "d2_desc":  "Adavus, the ten basic stances, and a slow accumulation of jathis. Theory of rhythm (tala) is taught alongside the movement from the outset.",
+    "d2_levels": "Beginner · Intermediate",
+    "d2_dur":    "75 minutes",
+
+    "d3_num":   "III.",
+    "d3_name":  "Children (7–12)",
+    "d3_trans": "foundations group",
+    "d3_desc":  "A playful, unhurried introduction. Posture, rhythm, short stories drawn from epics. Small group so that each child can be seen and corrected kindly.",
+    "d3_levels": "Mixed levels",
+    "d3_dur":    "60 minutes",
+
+    "sch_heading": "Weekly schedule",
+    "sch_note":    "Subject to term dates. Belgian school holidays observed.",
+
+    "sch_col_day":      "Day",
+    "sch_col_time":     "Time",
+    "sch_col_class":    "Class",
+    "sch_col_level":    "Level",
+    "sch_col_location": "Location",
+
+    "sch_1_day": "Tuesday",   "sch_1_time": "17:00 – 18:00", "sch_1_class": "Bharatanatyam — beginners",       "sch_1_level": "Kids 7–12",  "sch_1_loc": "Nekkersputstraat 42, 9000 Gent, Belgium",
+    "sch_2_day": "Tuesday",   "sch_2_time": "18:15 – 19:15", "sch_2_class": "Bharatanatyam — beginners",       "sch_2_level": "12 yrs +",   "sch_2_loc": "Nekkersputstraat 42, 9000 Gent, Belgium",
+    "sch_3_day": "Tuesday",   "sch_3_time": "19:30 – 20:30", "sch_3_class": "Bharatanatyam — intermediate",    "sch_3_level": "Adults",     "sch_3_loc": "Nekkersputstraat 42, 9000 Gent, Belgium",
+    "sch_4_day": "Wednesday", "sch_4_time": "Time TBC",      "sch_4_class": "Bharatanatyam — kids, online",    "sch_4_level": "Mixed",      "sch_4_loc": "Online",
+    "sch_5_day": "Saturday",  "sch_5_time": "13:30 – 14:30", "sch_5_class": "Bharatanatyam — mixed group",     "sch_5_level": "Mixed",      "sch_5_loc": "Nekkersputstraat 42, 9000 Gent, Belgium",
+    "sch_6_day": "Saturday",  "sch_6_time": "14:30 – 15:30", "sch_6_class": "Krishna Bhajans",                 "sch_6_level": "All",        "sch_6_loc": "Nekkersputstraat 42, 9000 Gent, Belgium",
+
+    "pricing_heading": "Fees",
+    "pricing_body":    "Monthly subscription, billed per trimester. A single trial class is offered at €[XX] and deducted from your enrolment if you continue. Reduced rates for second siblings. Full pricing on request.",
+    "pricing_cta":     "Ask about enrolment"
+  },
+
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title_a": "A decade",
+    "title_b": "of rehearsals",
+    "title_c": "and recitals.",
+    "lede": "Images from classes, studio rehearsals and the 2019 winter recital. A fuller video archive is on the way.",
+
+    "cap_1":  "Tatkar practice, studio",
+    "cap_2":  "Opening invocation",
+    "cap_3":  "Hastak detail",
+    "cap_4":  "Bharatanatyam adavu",
+    "cap_5":  "Abhinaya rehearsal",
+    "cap_6":  "Gat-nikas, winter recital",
+    "cap_7":  "Junior group",
+    "cap_8":  "Tihai — final turn",
+    "cap_9":  "Before the curtain",
+    "cap_10": "Post-recital, backstage",
+    "cap_11": "Chakkars",
+    "cap_12": "Tabla & dancer",
+    "cap_13": "Stance — araimandi",
+    "cap_14": "Senior student, solo",
+    "cap_15": "Group finale",
+    "cap_16": "Unseen rehearsal",
+    "cap_17": "Floor-work",
+    "cap_18": "Ankle-bells (ghungroos)",
+    "cap_19": "Rehearsal in half-light",
+    "cap_20": "After the bow",
+
+    "video_eyebrow": "Video",
+    "video_heading": "Recitals & workshops",
+    "video_body":    "Recital clips will be added here shortly. Subscribe on YouTube to be notified."
+  },
+
+  "contact": {
+    "eyebrow": "Visit & enrol",
+    "title_a": "Write ahead,",
+    "title_b": "then come & see.",
+    "lede": "The quickest way to join is to send a short note — your name, age group, any previous training, and which city is closer. You will hear back within a few days.",
+
+    "info_heading": "Studio",
+
+    "studio_1_label":   "Studio address",
+    "studio_1_address": "Nekkersputstraat 42\n9000 Gent, Belgium",
+    "studio_2_label":   "Address",
+    "studio_2_address": "Nekkersputstraat 42\n9000 Gent, Belgium",
+
+    "email_label": "Email",
+    "email":       "ashudevgune8@gmail.com",
+    "phone_label": "Telephone",
+    "phone":       "+32 499 33 25 56",
+    "hours_label": "Office hours",
+    "hours":       "Tue – Sat, 14:00 – 20:00",
+
+    "socials_label": "Follow",
+    "social_ig":     "Instagram ↗",
+    "social_yt":     "YouTube ↗",
+
+    "form_heading": "A note to the studio",
+    "form_note":    "The form is not yet connected — please write directly to the email above in the meantime.",
+    "form_name":    "Your name",
+    "form_email":   "Email",
+    "form_interest":"I am interested in",
+    "form_interest_default": "Select a class",
+    "form_interest_kathak":  "Kathak",
+    "form_interest_bharat":  "Bharatanatyam",
+    "form_interest_child":   "Children's class",
+    "form_interest_other":   "Another enquiry",
+    "form_message": "Message",
+    "form_submit":  "Send"
+  },
+
+  "footer": {
+    "tagline":  "Ashu Devgune — School of Indian Classical Dance · Belgium",
+    "copyright": "© 2026 Ashu Devgune. All rights reserved.",
+    "link_contact": "Contact",
+    "link_classes": "Classes",
+    "link_about":   "About",
+    "socials_ig":   "Instagram",
+    "socials_yt":   "YouTube",
+    "socials_email":"Email"
+  },
+
+  "error": {
+    "title_404": "Off the rhythm.",
+    "body_404":  "The page you were looking for does not exist — or has moved. Return to the home page below.",
+    "cta_404":   "Back to the home page"
+  }
+}
