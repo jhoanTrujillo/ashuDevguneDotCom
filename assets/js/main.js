@@ -67,20 +67,30 @@ function initNav() {
   const nav = document.querySelector("[data-nav]");
   if (!toggle || !nav) return;
 
-  toggle.addEventListener("click", () => {
-    const open = nav.dataset.open === "true";
-    nav.dataset.open = open ? "false" : "true";
-    toggle.setAttribute("aria-expanded", open ? "false" : "true");
-    document.body.style.overflow = open ? "" : "hidden";
+  const close = () => {
+    nav.dataset.open = "false";
+    toggle.setAttribute("aria-expanded", "false");
+  };
+  const open = () => {
+    nav.dataset.open = "true";
+    toggle.setAttribute("aria-expanded", "true");
+  };
+
+  toggle.addEventListener("click", (e) => {
+    e.stopPropagation();
+    nav.dataset.open === "true" ? close() : open();
   });
 
-  nav.querySelectorAll("a").forEach((a) =>
-    a.addEventListener("click", () => {
-      nav.dataset.open = "false";
-      toggle.setAttribute("aria-expanded", "false");
-      document.body.style.overflow = "";
-    })
-  );
+  nav.querySelectorAll("a").forEach((a) => a.addEventListener("click", close));
+
+  document.addEventListener("click", (e) => {
+    if (nav.dataset.open !== "true") return;
+    if (!nav.contains(e.target) && !toggle.contains(e.target)) close();
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && nav.dataset.open === "true") close();
+  });
 }
 
 /* ---------- language selector ---------- */
